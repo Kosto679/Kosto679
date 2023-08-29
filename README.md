@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm from Greece<br><br>- 🔭 I’m working as a junior developer<br>- 📚 I'm currently learning java spring, docker, kubernetes and terraform and aws<br>- ⚡ In my free time I tackle on exciting projects</p>
+<p align="left">I'm from Greece<br><br>- 🔭 I’m working as a junior developer<br>- 📚 I'm currently learning java spring, docker, kubernetes, terraform and aws<br>- ⚡ In my free time I tackle on exciting projects</p>
 
 ###
 
